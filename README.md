@@ -1,6 +1,6 @@
 # Windows 11 Help Desk Lab
 
-I built this lab to practice the kind of tickets a help desk sees every day: setting up new accounts, handing out temporary admin rights, unlocking someone who typed their password wrong too many times, digging through the security log, locking down a team folder, and onboarding a batch of new hires with a script instead of clicking through the same screens six times.
+I built this lab to practice the kind of tickets a support/help desk tech sees every day: setting up new accounts, handing out temporary admin rights, unlocking someone who typed their password wrong too many times, digging through the security log, locking down a team folder, and onboarding a batch of new hires with a script instead of clicking through the same screens six times.
 
 Each section starts with the ticket as I'd expect to get it, then what I did and how I checked that it actually worked. Everything was run in PowerShell as an administrator. If you want a plain-English rundown of every command I used, that's in [windows-command-reference.md](windows-command-reference.md).
 
